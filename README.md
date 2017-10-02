@@ -15,7 +15,7 @@ spend riding the bikes around the city and where and when they are doing so.
 
 These were the steps involved:
 
-1. Pulling down a snapshot of the data every 1/2 hour
+1. Pulling down a snapshot of the data every 1/2 hour. [Here's the raw data](https://www.dropbox.com/sh/q0socjpdz4t695z/AAApMuYz9__BmvFLfwDtRaHFa?dl=0)
 2. Analysing the files and creating a origin and destination lat/longitude
 3. Sending the data to the [Google Distance Matrix API](https://developers.google.com/maps/documentation/distance-matrix/)
 4. Working with the final results from the Google Distance Matrix
