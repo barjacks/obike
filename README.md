@@ -2,7 +2,7 @@
 
 ## Working with the (strangely open) oBike API
 
-In Juli 2017, the bike rental service oBike from Singapore started in Zurich. It
+TESTETSTETTSTETST Juli 2017, the bike rental service oBike from Singapore started in Zurich. It
 lets users rent whichever bike they feel like, simply by scanning a QR code. This
 frees users of the hassle of bringing bike rentals back. The service is
 sensationally cheap, charging only 1.50 Swiss Francs per half an hour. The bikes
